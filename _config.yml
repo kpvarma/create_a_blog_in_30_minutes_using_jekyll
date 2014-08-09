@@ -6,4 +6,4 @@ permalink: /blog/:year/:month/:day/:title/
 
 # For Github Pages
 base_folder: /create_a_blog_in_30_minutes_using_jekyll
-base_url: http://kpvarma.github.io/
+base_url: http://kpvarma.github.io
